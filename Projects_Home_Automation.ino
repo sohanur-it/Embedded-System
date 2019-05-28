@@ -6,8 +6,8 @@
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "Sohan-Router"
-#define WLAN_PASS       "sohan12345"
+#define WLAN_SSID       "Sohan-Router" ##wifi ssid here
+#define WLAN_PASS       "sohan12345"  ##wifi password here
 
 /************************* Adafruit.io Setup *********************************/
 
